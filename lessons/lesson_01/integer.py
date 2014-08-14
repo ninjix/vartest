@@ -5,4 +5,4 @@
 This is my doc string
 """
 
-CARS = 100
+cars = 100

@@ -6,9 +6,8 @@
 import unittest
 
 # Import user libs
-from lessons import lesson_01
 try:
-    from lesson_01 import integer
+    from lessons.lesson_01 import integer
     import_success = True
 except ImportError:
     import_success = False
